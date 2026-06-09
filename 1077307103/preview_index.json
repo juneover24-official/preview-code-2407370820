@@ -1,7 +1,7 @@
 {
   "qq_number": "2407370820",
   "group_number": "1077307103",
-  "updated_at": "2026-06-09T00:56:10+00:00",
+  "updated_at": "2026-06-09T02:26:42+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -32,6 +32,12 @@
       "file": "妙妙の2077闷闷.bds",
       "thumb": "妙妙の2077闷闷.bds_py_26_light_thumb.png",
       "full": "妙妙の2077闷闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "妙妙の2077",
+      "file": "妙妙の2077脆脆.bds",
+      "thumb": "妙妙の2077脆脆.bds_py_26_light_thumb.png",
+      "full": "妙妙の2077脆脆.bds_py_26_light_thumb.png"
     }
   ]
 }
