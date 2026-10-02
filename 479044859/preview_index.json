@@ -1,7 +1,7 @@
 {
   "qq_number": "2407370820",
   "group_number": "479044859",
-  "updated_at": "2026-10-02T05:00:16+00:00",
+  "updated_at": "2026-10-02T17:47:16+00:00",
   "skins": [
     {
       "name": "妙妙の芝士就是力量",
@@ -27,6 +27,13 @@
       "thumb": "妙妙の芝士就是力量.bds_py_26_light_thumb.png",
       "full": "妙妙の芝士就是力量.bds_py_26_light_thumb.png",
       "file_id": "deba3e662cf72eea749bd305f1137488"
+    },
+    {
+      "name": "妙妙のkiyo兔",
+      "file": "妙妙のkiyo兔.bds",
+      "thumb": "妙妙のkiyo兔.bds_py_26_light_thumb.png",
+      "full": "妙妙のkiyo兔.bds_py_26_light_thumb.png",
+      "file_id": "17b927340048d9f5560f419c7589fa15"
     }
   ]
 }
