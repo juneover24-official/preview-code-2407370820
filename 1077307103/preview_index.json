@@ -1,7 +1,7 @@
 {
   "qq_number": "2407370820",
   "group_number": "1077307103",
-  "updated_at": "2026-06-23T16:46:24+00:00",
+  "updated_at": "2026-10-04T10:11:48+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -68,6 +68,13 @@
       "file": "妙妙の莓莓屋脆脆.bds",
       "thumb": "妙妙の莓莓屋脆脆.bds_py_26_light_thumb.png",
       "full": "妙妙の莓莓屋脆脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "妙妙の莓莓屋",
+      "file": "妙妙の莓莓屋闷闷.bds",
+      "thumb": "妙妙の莓莓屋闷闷.bds_py_26_light_thumb.png",
+      "full": "妙妙の莓莓屋闷闷.bds_py_26_light_thumb.png",
+      "file_id": "94e64d331bef8e61a6712813f2f4747a"
     }
   ]
 }
