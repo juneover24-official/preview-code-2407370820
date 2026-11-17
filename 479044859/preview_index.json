@@ -1,7 +1,7 @@
 {
   "qq_number": "2407370820",
   "group_number": "479044859",
-  "updated_at": "2026-11-17T10:42:21+00:00",
+  "updated_at": "2026-11-17T10:42:25+00:00",
   "skins": [
     {
       "name": "妙妙の芝士就是力量",
@@ -40,6 +40,12 @@
       "file": "妙妙の世纪末的无聊消遣.bds",
       "thumb": "妙妙の世纪末的无聊消遣.bds_py_26_light_thumb.png",
       "full": "妙妙の世纪末的无聊消遣.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "妙妙の世纪末的无聊消遣",
+      "file": "妙妙の世纪末的无聊消遣.bdi",
+      "thumb": "妙妙の世纪末的无聊消遣.bdi_py_26_light_thumb.png",
+      "full": "妙妙の世纪末的无聊消遣.bdi_py_26_light_thumb.png"
     }
   ]
 }
